@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Live Broadcasting App",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -173,31 +173,31 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Full Stack Intern",
+    desc: "I was assigned the role of enhancing the website's responsiveness and contributed to their collaborative projects by debugging minor backend errors related to invalid API calls",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/Prasunet.jpg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Tech Core | URJA TIET",
+    desc: "Created the landing page of the website and was given the responsibility to handle the responsiveness of the website using MERN Stack. Also, added CSS animations to bring liveliness",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "/urja.jpg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Web Dev Project",
+    desc: "Have done many Freelance Projects for my clients",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/exp1.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Tech Core | Institution of Engineers of India",
+    desc: "Was in the tech team and contributed in the official website development of 2024 fest. Also, was in the event management team",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/IEI.png",
   },
 ];
 
