@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "Merging Creativity with Technology for Impactful Solutions",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -72,35 +72,35 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Mediclarity",
+    des: "This WebApp scans your Medical Report and summarize it using Gemini 1.5 pro API and also suggest recommendations based on symptoms",
+    img: "/Mediclarity.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://medi-clarity.vercel.app/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Vaultify",
+    des: "Build a Professional and Production-ready Storage Management Platform. Used Appwrite Cloud for storage and file management",
+    img: "/Vaultify.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://vaultify-orcin.vercel.app/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Thapar Car Pool",
+    des: "Developed a real-time pooling system for Thapar College students to share cabs, reducing transportation costs by coordinating rides from the same train.",
+    img: "/ThaparCarPool.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://thaparpool.rebec.in/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "NotifyGenie",
+    des: "Real time Weather, news & Horoscope updates platform. Used Twilio for SMS API and did Scraping with Beautiful Soup. Also, used Node-Cron for complex scheduling",
+    img: "/NotifyGenie.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://sms-info-service.vercel.app/",
   },
 ];
 
@@ -188,7 +188,7 @@ export const workExperience = [
   {
     id: 3,
     title: "Freelance Web Dev Project",
-    desc: "Have done many Freelance Projects for my clients",
+    desc: "Have done many Freelance Projects for My Clients and for College Festivals. I have worked on the frontend and backend of the projects",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp1.svg",
   },
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/KumarShresth7",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://x.com/KumarShresth007",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/kumar-shresth-7b7b7b1b4/",
   },
 ];
